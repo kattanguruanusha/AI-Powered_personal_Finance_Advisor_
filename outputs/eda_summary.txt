@@ -1,0 +1,14 @@
+
+EDA SUMMARY REPORT
+------------------
+Dataset Overview:
+- Monthly personal finance data analyzed
+- Key variables: Income, Expenses, Savings
+
+Key Observations:
+1. Income shows a stable distribution across users.
+2. Total expenses increase with income but not proportionally.
+3. Savings potential exists mainly in discretionary categories.
+
+Conclusion:
+The dataset is suitable for expense analysis and financial behavior modeling.

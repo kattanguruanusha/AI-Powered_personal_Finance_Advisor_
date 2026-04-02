@@ -1,0 +1,19 @@
+
+MODEL SUMMARY REPORT
+--------------------
+
+Models Used:
+1. StandardScaler – Feature normalization
+2. PCA – Dimensionality reduction
+3. KMeans Clustering – User segmentation
+
+Model Purpose:
+- Group users based on financial behavior
+- Identify spending and saving patterns
+
+Outcome:
+- Users clustered into distinct financial profiles
+- Helps in personalized financial advice
+
+Conclusion:
+The model successfully segments users and supports data-driven financial recommendations.
